@@ -1,0 +1,14 @@
+layout_spectrum: 0.8942458976525813
+typography_spectrum: 0.3369102985598147
+color:
+  brandStrength: 0.5314619906712323
+  lightness: 0.10669715283438563
+  saturation: 0.7570550935342908
+  rhythmicContrast: 0.6329285993706435
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: codeDaily
