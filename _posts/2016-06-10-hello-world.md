@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-10T23:09:00.352Z'
-datePublished: '2016-06-10T23:09:41.434Z'
+dateModified: '2016-06-10T23:12:51.127Z'
+datePublished: '2016-06-10T23:12:51.330Z'
 title: Hello World!
 author: []
-starred: false
 sourcePath: _posts/2016-06-10-hello-world.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
