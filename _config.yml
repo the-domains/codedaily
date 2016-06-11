@@ -1,14 +1,17 @@
-layout_spectrum: 0.5628979897592217
+layout_spectrum: 0.8942458976525813
 typography_spectrum: 0.3369102985598147
 color:
-  brandStrength: 0.10293999267742038
-  lightness: 0.08718619449064136
-  saturation: 0.7658484915737063
-  rhythmicContrast: 0.09435945586301386
+  brandStrength: 0.5314619906712323
+  lightness: 0.10669715283438563
+  saturation: 0.7570550935342908
+  rhythmicContrast: 0.6329285993706435
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: codeDaily
+author:
+  name: Derek
+  url: 'https://twitter.com/dmarshall28'
